@@ -2,13 +2,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bernal82&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernal82&layout=compact&langs_count=6&theme=radical&locale=pt-br" height="150" alt="languages graph" />
-</div>
-
-<br>
-
 <img align="right" height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hlMmt1ZDhydnA3bzlpdHMyZHIwaWpuanlkcGN3a3pzOGhmeWtwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
 <div align="left">
